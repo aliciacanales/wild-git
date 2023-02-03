@@ -1,6 +1,6 @@
 ---
 title: "Wild git collaboration practice!"
-author: "your names here!"
+author: "Alicia, Danielle, Kat"
 date: "1/25/2022"
 output: html_document
 ---
